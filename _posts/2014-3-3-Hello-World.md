@@ -15,7 +15,7 @@ Following the doco at [fusesoc](https://github.com/olofk/fusesoc) and [serv core
 2. Deploy to a physical FPGA (Win10)
 3. Capture and decode the output to validate the results
 
-![shell console showing output of building serv]({{site.baseurl}}/_posts/build.png)
-![shell console showing use of tinyprog to deploy a binary file to a tinyFPGA Bx board]({{site.baseurl}}/_posts/prog_LI.jpg)
-![screen showing a logic level decode of 'Hello World']({{site.baseurl}}/_posts/pulseviewdecode.png)
+![shell console showing output of building serv]({{site.baseurl}}/images/build.png)
+![shell console showing use of tinyprog to deploy a binary file to a tinyFPGA Bx board]({{site.baseurl}}/images/prog_LI.jpg)
+![screen showing a logic level decode of 'Hello World']({{site.baseurl}}/images/pulseviewdecode.png)
 
